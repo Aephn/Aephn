@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,go,c,cpp,bash,cs,dotnet,ts,angular)](https://skillicons.dev)
 
 #### Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,nginx,ansible,vercel)](https://skillicons.dev)
