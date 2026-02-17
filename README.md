@@ -1,6 +1,5 @@
 ![Studio Day W25 copy-3](https://github.com/user-attachments/assets/06690ced-74fd-4a72-b760-05d4f56842e3)
-#### Portfolio
-WIP: https://htlin.vercel.app
+## [Portfolio](https://htlin.vercel.app)
 
 #### Tools
 [![My Tools](https://skillicons.dev/icons?i=vim,vscode,latex,linux,apple,windows,github,gitlab)](https://skillicons.dev)
