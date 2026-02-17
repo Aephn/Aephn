@@ -1,6 +1,3 @@
-
-![Studio Day W25 copy-3](https://github.com/user-attachments/assets/4c8e2b38-be8f-4e8d-81db-1f43074f79b7)
-
 #### Tools
 [![My Tools](https://skillicons.dev/icons?i=vim,vscode,latex,linux,apple,windows,github,gitlab)](https://skillicons.dev)
 
